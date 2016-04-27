@@ -10,7 +10,7 @@
 - We can use an utility for Gitflow
 - [Gitflow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
-### Example for Gitflow workflow
+### Example for  workflow
 
 - Brian create new branch based on develop branch
 
@@ -49,7 +49,9 @@ or
 git flow feature publish brian
 ```
 
-- Brian create a pull request from Github webpage
+- Brian create a pull request from Github webpageGitflow
+
+![Pull request](pull-request.png)
 
 - Pablo receives pull request and takes a look. He can merge immediately or continue his feature. 
 
