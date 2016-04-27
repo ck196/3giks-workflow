@@ -10,7 +10,7 @@
 - We can use an utility for Gitflow
 - [Gitflow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
-### Example for feature branch workflow
+### Example for Gitflow workflow
 
 - Brian create new branch based on develop branch
 
